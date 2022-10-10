@@ -1,0 +1,15 @@
+
+tasks:
+  - name: Webserver
+    command: >
+      gp open index.html
+      gp open style.css
+      python -m http.server 8000
+
+ports:
+  - name: Webserver
+    port: 8000
+    onOpen: open-preview
+vscode:
+  extensions:
+    - esbenp.prettier-vscode
