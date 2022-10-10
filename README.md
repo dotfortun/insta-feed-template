@@ -2,7 +2,11 @@
 
 ## Goal
 
-The goal of this project is to make a copy of an Instagram feed as an introduction to HTML and CSS.
+The goal of this project is to make a copy of an Instagram feed.  The skills that we will be covering in this lesson are:
+
+* Intro HTML
+* Intro CSS
+* 3rd Party CSS (Bootstrap/Font Awesome)
 
 ## MVP Requirements
 
