@@ -31,3 +31,8 @@ An image of the rough layout of this project has been provided:
 A prebuilt workspace can be access by clicking the following button:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/dotfortun/insta-feed-template)
+
+## Additional Resources
+
+* [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+* [Font Awesome](https://fontawesome.com/icons)
