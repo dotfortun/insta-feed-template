@@ -28,7 +28,7 @@ An image of the rough layout of this project has been provided:
 
 ## Getting Started:
 
-A prebuilt workspace can be access by clicking the following button:
+A prebuilt workspace can be accessed by clicking the following button:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/dotfortun/insta-feed-template)
 
