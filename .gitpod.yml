@@ -2,8 +2,8 @@
 tasks:
   - name: Webserver
     command: >
-      gp open index.html
-      gp open style.css
+      gp open style.css;
+      gp open index.html;
       python -m http.server 8000
 
 ports:
