@@ -40,3 +40,5 @@ A prebuilt workspace can be accessed by clicking the following button:
 
 * [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 * [Font Awesome](https://fontawesome.com/icons)
+* [Placekitten](https://placekitten.com/)
+* [Placepuppy](https://place-puppy.com/)
